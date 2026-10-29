@@ -4,11 +4,11 @@ PokemonTower7FWildMons:
 	db 22, GASTLY         ; 20
 	db 23, GASTLY         ; 15
 	db 24, GASTLY         ; 10
-	db 20, GASTLY         ; 10
+	db 25, GASTLY         ; 10
 	db 28, HAUNTER        ; 10
-	db 22, CUBONE         ; 5
-	db 24, CUBONE         ; 5
-	db 28, HAUNTER        ; 4
+	db 26, CUBONE         ; 5
+	db 27, CUBONE         ; 5
+	db 29, HAUNTER        ; 4
 	db 30, HAUNTER        ; 1
 	end_grass_wildmons
 

@@ -1,0 +1,151 @@
+Bulbasaur  - Route 1
+Ivysaur    - evolve at level 16
+Venasaur   - evolve at level 32
+Charmander - Route 1
+Charmeleon - evolve at level 16
+Charizard  - evolve at level 36
+Squirtle   - Route 21
+Wartortle  - evolve at level 16
+Blastoise  - evolve at level 36
+Caterpie   - Viridian Forest
+Metapod    - Viridian Forest ... or evo 7
+Butterfree - Viridian Forest ... or evo 10
+Weedle     - Viridian Forest
+Kakuna     - Viridian Forest ... or evo 7
+Beedrill   - Viridian Forest ... or evo 10
+Pidgey     - Route 1, 5, 6, 14
+Pidgeotto  - evolve at level 18 or ... Route 6, 14, 15
+Pidgeot    - evolve at level 36 or ... Route 14, 15, 23
+Rattata    - Route 1
+Raticate   - evolve at level 20 or ... Route 16/17, 18
+Spearow    - Route 22, 10
+Fearow     - evolve at level 20 or ... Route 14, 15, 23
+Ekans      - Route 2, 10
+Arbok      - evolve at level 22 or ... Route 10, Cerulean Cave
+Pikachu    - Route 1, 2, Viridian Forest, Power Plant
+Raichu     - evolve with Thunder Stone or ... Power Plant, Cerulean Cave
+Sandshrew  - Route 2, 10
+Sandslash  - evolve at level 22 or ... Route 10, Cerulean Cave
+Nidoran_F  - Route 22
+Nidorina   - evolve at level 16
+Nidoqueen  - evolve with Moon Stone or ... Victory Road
+Nidoran_M  - Route 22
+Nidorino   - evolve at level 16
+Nidoking   - evolve with Moon Stone or ... Victory Road
+Clefairy   - Route 3, Mt Moon
+Clefable   - evolve with Moon Stone or ... Victory Road, Cerulean Cave
+Vulpix     - Route 2, 8, Pokemon Mansion
+Ninetales  - evolve with Fire Stone or ... Route 8, Pokemon Mansion
+Jigglypuff - Route 3
+Wigglytuff - evolve with Moon Stone or ... Victory Road, Cerulean Cave
+Zubat      - Route 3, Mt Moon, Seafoam Islands
+Golbat     - evolve at level 22 or ... Rock Tunnel, Seafoam Islands, Victory Road, Cerulean Cave
+Oddish     - Route 2, 12/13, 14
+Gloom      - evolve at level 21 or ... Route 12/13, 15
+Vileplume  - evolve with Leaf Stone or ... Route 12/13
+Paras      - Route 3, Mt Moon
+Parasect   - evolve at level 24 or ... Rock Tunnel
+Venonat    - Route 2, 12/13, 14, 15
+Venomoth   - evolve at level 31 > 21 or ... Route 12/13, 14, 15
+Diglett    - Diglett's Cave
+Dugtrio    - evolve at level 26 or ... Diglett's Cave
+Meowth     - Route 21
+Persian    - evolve at level 28 > 21 or ... Route 5
+Psyduck    - Route 21, Seafoam Islands
+Golduck    - evolve at level 33 or ... Route 6, Seafoam Islands
+Mankey     - Route 22
+Primape    - evolve at level 28 > 21 or ... Route 5, 7
+Growlithe  - Route 3, 8, Pokemon Mansion
+Arcanine   - evolve with Fire Stone or ... Route 8, Pokemon Mansion
+Poliwag    - Fishing old rod?
+Poliwhirl  - evolve at level 25 > 12
+Poliwrath  - evolve with Water Stone
+Abra       - Route 4, 24
+Kadabra    - evolve at level 16 or ... Route 24, Pokemon Mansion
+Alakazam   - evolve through trade > level 37 ... or Pokemon Mansion, Cerulean Cave
+Machop     - Route 4, 24, 9
+Machoke    - evolve at level 28 or ... Route 9, 8
+Machamp    - evolve through trade > level 37 ... or Route 23, Victory Road
+Bellsprout - Route 4, 24, 12/13, 14
+Weepinbell - evolve at level 21 or ... Route 24, 12/13, 15
+Victreebel - evolve with Leaf Stone or ... Route 12/13
+Tentacool  - Surfing Route 19, 20
+Tentacruel - Surfing Route 19, 20 ... or evo 30
+Geodude    - Mt Moon
+Graveler   - evolve at level 25 or ... Rock Tunnel
+Golem      - evolve through trade > level 37 ... or Victory Road
+Ponyta     - Route 24, Pokemon Mansion
+Rapidash   - evolve at level 40 > level 37 ... or Pokemon Mansion, Route 23
+Slowpoke   - Route 25, Seafoam Islands
+Slowbro    - evolve at level 37 or ... Route 6, Seafoam Islands
+Magnemite  - Route 25, 10, Power Plant
+Magneton   - evolve at level 30 or ... > level 22 Route 25, Power Plant, Cerulean Cave
+Farfetchd  - Route 21
+Doduo      - Route 21
+Dodrio     - evolve at level 31 or ... Route 7, 14, 15, 16/17, 18
+Seel       - Seafoam Islands
+Dewgong    - Seafoam Islands ... or evolve at level 34
+Grimer     - Pokemon Mansion
+Muk        - evolve at level 38 or ... Pokemon Mansion
+Shellder   - Seafoam Islands
+Cloyster   - evolve with Water Stone or ... Seafoam Islands
+Ghastly    - Pokemon Tower
+Haunter    - evolve at level 25 > 16 or ... Pokemon Tower, Pokemon Mansion
+Gengar     - evolve through trade or ... > level 37 ... or Pokemon Mansion, Cerulean Cave
+Onix       - Rock Tunnel, Victory Road
+Drowzee    - Route 11
+Hypno      - evolve at level 26 or ... Route 11, Cerulean Cave
+Krabby     - Route 21, Seafoam Islands
+Kingler    - evolve at level 28 or ... Surfing Route 21, Seafoam Islands
+Voltorb    - Route 10, Power Plant
+Electrode  - evolve at level 30 > 25 ... or Power Plant, Cerulean Cave
+Exeggcute  - Route 21
+Exeggutor  - evolve with Leaf Stone or ... or Power Plant
+Cubone     - Rock Tunnel, Pokemon Tower
+Marowak    - evolve at level 28 or ... Rock Tunnel, Pokemon Tower, Victory Road, Cerulean Cave
+Hitmonlee  - Rock Tunnel, Route 8 or ... Fighting Dojo or ... Route 23
+Hitmonchan - Rock Tunnel, Route 8 or ... Fighting Dojo or ... Route 23
+Lickitung  - Route 18
+Koffing    - Pokemon Mansion
+Weezing    - evolve at level 35 or ... Pokemon Mansion
+Rhyhorn    - Rock Tunnel
+Rhydon     - evolve at level 42 or ... Victory Road, Cerulean Cave
+Chansey    - Route 18, Cerulean Cave
+Tangela    - Route 21
+Kangaskhan - Route 18
+Horsea     - Surfing Route 21, Seafoam Islands
+Seadra     - Surfing Route 21, Seafoam Islands ... or evo 32
+Goldeen    - Surfing Route 21
+Seaking    - Surfing Route 21 ... or evo 33
+Staryu     - Surfing Route 21, Seafoam Islands
+Starmie    - Surfing Route 21, Seafoam Islands ... or evo Water Stone
+Mr. Mime   - Route 16/17, 18
+Scyther    - Route 16/17, 18
+Jynx       - Seafoam Islands
+Electabuzz - Power Plant
+Magmar     - Pokemon Mansion
+Pinsir     - Route 16/17, 18
+Tauros     - Route 24
+Magikarp   - Route 3 Pokecenter
+Gyarados   - Surfing Route 21 ... or evo 20
+Lapras     - Surfing Route 21
+Ditto      - Route 9, 23, 14, 15, Cerulean Cave
+Eevee      - Route 1
+Vaporeon   - evolve with Water Stone
+Jolten     - evolve with Thunder Stone
+Flareon    - evolve with Fire Stone
+Porygon    - Route 7?
+Omanyte    - revive Helix Fossil or ... Seafoam Islands
+Omastar    - evolve at level 40 or ... Seafoam Islands
+Kabuto     - revive Dome Fossil or ... Seafoam Islands
+Kabutops   - evolve at level 40 or ... Seafoam Islands
+Aerodactyl - revive Old Amber or ... Seafoam Islands
+Snorlax    - Wake up and catch at Route 12 or Route 16, Cerulean Cave
+Articuno   - Seafoam Islands
+Zapdos     - Power Plant
+Moltres    - Victory Road
+Dratini    - Fishing Super Rod Seafoam Islands?
+Dragonair  - evolve at level 30 or ... Fishing Super Rod Seafoam Islands?
+Dragonite  - evolve at level 55 > 45 or ... Cerulean Cave
+Mewtwo     - Cerulean Cave
+Mew        - Glitch or ... 

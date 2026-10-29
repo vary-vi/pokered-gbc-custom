@@ -265,13 +265,13 @@ SpearowEvosMoves:
 
 VoltorbEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 30, ELECTRODE
+	db EVOLVE_LEVEL, 25, ELECTRODE
 	db 0
 ; Learnset
-	db 17, SONICBOOM
+	db 17, SWIFT
 	db 22, SELFDESTRUCT
 	db 29, LIGHT_SCREEN
-	db 36, SWIFT
+	db 36, SONICBOOM
 	db 43, EXPLOSION
 	db 0
 
@@ -306,9 +306,9 @@ IvysaurEvosMoves:
 	db 13, VINE_WHIP
 	db 22, POISONPOWDER
 	db 30, RAZOR_LEAF
-	db 38, GROWTH
-	db 46, SLEEP_POWDER
-	db 54, SOLARBEAM
+	db 33, GROWTH
+	db 36, SLEEP_POWDER
+	db 40, SOLARBEAM
 	db 0
 
 ExeggutorEvosMoves:
@@ -478,7 +478,7 @@ TentacoolEvosMoves:
 
 GastlyEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 25, HAUNTER
+	db EVOLVE_LEVEL, 16, HAUNTER
 	db 0
 ; Learnset
 	db 27, HYPNOSIS
@@ -622,6 +622,7 @@ SlowpokeEvosMoves:
 KadabraEvosMoves:
 ; Evolutions
 	db EVOLVE_TRADE, 1, ALAKAZAM
+	db EVOLVE_LEVEL, 37, ALAKAZAM
 	db 0
 ; Learnset
 	db 16, CONFUSION
@@ -635,13 +636,14 @@ KadabraEvosMoves:
 GravelerEvosMoves:
 ; Evolutions
 	db EVOLVE_TRADE, 1, GOLEM
+	db EVOLVE_LEVEL, 37, GOLEM
 	db 0
 ; Learnset
 	db 11, DEFENSE_CURL
 	db 16, ROCK_THROW
 	db 21, SELFDESTRUCT
 	db 29, HARDEN
-	db 36, EARTHQUAKE
+	db 38, EARTHQUAKE
 	db 43, EXPLOSION
 	db 0
 
@@ -660,6 +662,7 @@ ChanseyEvosMoves:
 MachokeEvosMoves:
 ; Evolutions
 	db EVOLVE_TRADE, 1, MACHAMP
+	db EVOLVE_LEVEL, 37, MACHAMP
 	db 0
 ; Learnset
 	db 20, LOW_KICK
@@ -757,7 +760,7 @@ GolemEvosMoves:
 	db 16, ROCK_THROW
 	db 21, SELFDESTRUCT
 	db 29, HARDEN
-	db 36, EARTHQUAKE
+	db 38, EARTHQUAKE
 	db 43, EXPLOSION
 	db 0
 
@@ -803,9 +806,9 @@ MagnetonEvosMoves:
 	db 21, SONICBOOM
 	db 25, THUNDERSHOCK
 	db 29, SUPERSONIC
-	db 38, THUNDER_WAVE
-	db 46, SWIFT
-	db 54, SCREECH
+	db 35, THUNDER_WAVE
+	db 41, SWIFT
+	db 47, SCREECH
 	db 0
 
 KoffingEvosMoves:
@@ -828,7 +831,7 @@ MissingNo38EvosMoves:
 
 MankeyEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 28, PRIMEAPE
+	db EVOLVE_LEVEL, 21, PRIMEAPE
 	db 0
 ; Learnset
 	db 15, KARATE_CHOP
@@ -904,7 +907,7 @@ FarfetchdEvosMoves:
 
 VenonatEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 31, VENOMOTH
+	db EVOLVE_LEVEL, 21, VENOMOTH
 	db 0
 ; Learnset
 	db 24, POISONPOWDER
@@ -959,7 +962,7 @@ DoduoEvosMoves:
 
 PoliwagEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 25, POLIWHIRL
+	db EVOLVE_LEVEL, 12, POLIWHIRL
 	db 0
 ; Learnset
 	db 16, HYPNOSIS
@@ -1017,14 +1020,14 @@ DittoEvosMoves:
 
 MeowthEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 28, PERSIAN
+	db EVOLVE_LEVEL, 21, PERSIAN
 	db 0
 ; Learnset
 	db 12, BITE
 	db 17, PAY_DAY
-	db 24, SCREECH
-	db 33, FURY_SWIPES
-	db 44, SLASH
+	db 19, SCREECH
+	db 22, FURY_SWIPES
+	db 33, SLASH
 	db 0
 
 KrabbyEvosMoves:
@@ -1119,13 +1122,13 @@ DratiniEvosMoves:
 
 DragonairEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 55, DRAGONITE
+	db EVOLVE_LEVEL, 45, DRAGONITE
 	db 0
 ; Learnset
 	db 10, THUNDER_WAVE
 	db 20, AGILITY
 	db 35, SLAM
-	db 45, DRAGON_RAGE
+	db 44, DRAGON_RAGE
 	db 55, HYPER_BEAM
 	db 0
 
@@ -1424,8 +1427,8 @@ PrimeapeEvosMoves:
 	db 15, KARATE_CHOP
 	db 21, FURY_SWIPES
 	db 27, FOCUS_ENERGY
-	db 37, SEISMIC_TOSS
-	db 46, THRASH
+	db 33, SEISMIC_TOSS
+	db 39, THRASH
 	db 0
 
 DugtrioEvosMoves:
@@ -1639,11 +1642,11 @@ ElectrodeEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 17, SONICBOOM
+	db 17, SWIFT
 	db 22, SELFDESTRUCT
 	db 29, LIGHT_SCREEN
-	db 40, SWIFT
-	db 50, EXPLOSION
+	db 36, SONICBOOM
+	db 43, EXPLOSION
 	db 0
 
 ClefableEvosMoves:
@@ -1669,9 +1672,9 @@ PersianEvosMoves:
 ; Learnset
 	db 12, BITE
 	db 17, PAY_DAY
-	db 24, SCREECH
-	db 37, FURY_SWIPES
-	db 51, SLASH
+	db 19, SCREECH
+	db 22, FURY_SWIPES
+	db 33, SLASH
 	db 0
 
 MarowakEvosMoves:
@@ -1694,6 +1697,7 @@ MissingNo92EvosMoves:
 HaunterEvosMoves:
 ; Evolutions
 	db EVOLVE_TRADE, 1, GENGAR
+	db EVOLVE_LEVEL, 37, GENGAR
 	db 0
 ; Learnset
 	db 29, HYPNOSIS
@@ -1772,9 +1776,9 @@ VenusaurEvosMoves:
 	db 13, VINE_WHIP
 	db 22, POISONPOWDER
 	db 30, RAZOR_LEAF
-	db 43, GROWTH
-	db 55, SLEEP_POWDER
-	db 65, SOLARBEAM
+	db 36, GROWTH
+	db 40, SLEEP_POWDER
+	db 44, SOLARBEAM
 	db 0
 
 TentacruelEvosMoves:
@@ -1848,7 +1852,7 @@ MissingNoA2EvosMoves:
 
 PonytaEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 40, RAPIDASH
+	db EVOLVE_LEVEL, 37, RAPIDASH
 	db 0
 ; Learnset
 	db 30, TAIL_WHIP
@@ -1867,8 +1871,8 @@ RapidashEvosMoves:
 	db 32, STOMP
 	db 35, GROWL
 	db 39, FIRE_SPIN
-	db 47, TAKE_DOWN
-	db 55, AGILITY
+	db 43, TAKE_DOWN
+	db 48, AGILITY
 	db 0
 
 RattataEvosMoves:
@@ -1959,7 +1963,7 @@ MissingNoACEvosMoves:
 
 MagnemiteEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 30, MAGNETON
+	db EVOLVE_LEVEL, 22, MAGNETON
 	db 0
 ; Learnset
 	db 21, SONICBOOM

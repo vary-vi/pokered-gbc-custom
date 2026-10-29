@@ -134,7 +134,7 @@ Eevee      - Route 1
 Vaporeon   - evolve with Water Stone
 Jolten     - evolve with Thunder Stone
 Flareon    - evolve with Fire Stone
-Porygon    - Route 7?
+Porygon    - Route 7
 Omanyte    - revive Helix Fossil or ... Seafoam Islands
 Omastar    - evolve at level 40 or ... Seafoam Islands
 Kabuto     - revive Dome Fossil or ... Seafoam Islands

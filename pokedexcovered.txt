@@ -33,11 +33,11 @@ Nidoran_M  - Route 22
 Nidorino   - evolve at level 16
 Nidoking   - evolve with Moon Stone or ... Victory Road
 Clefairy   - Route 3, Mt Moon
-Clefable   - evolve with Moon Stone or ... Victory Road, Cerulean Cave
+Clefable   - evolve with Moon Stone or ... Route 3, Victory Road, Cerulean Cave
 Vulpix     - Route 2, 8, Pokemon Mansion
 Ninetales  - evolve with Fire Stone or ... Route 8, Pokemon Mansion
 Jigglypuff - Route 3
-Wigglytuff - evolve with Moon Stone or ... Victory Road, Cerulean Cave
+Wigglytuff - evolve with Moon Stone or ... Route 3, Victory Road, Cerulean Cave
 Zubat      - Route 3, Mt Moon, Seafoam Islands
 Golbat     - evolve at level 22 or ... Rock Tunnel, Seafoam Islands, Victory Road, Cerulean Cave
 Oddish     - Route 2, 12/13, 14
@@ -110,7 +110,7 @@ Koffing    - Pokemon Mansion
 Weezing    - evolve at level 35 or ... Pokemon Mansion
 Rhyhorn    - Rock Tunnel
 Rhydon     - evolve at level 42 or ... Victory Road, Cerulean Cave
-Chansey    - Route 18, Cerulean Cave
+Chansey    - Route 3, Route 18, Cerulean Cave
 Tangela    - Route 21
 Kangaskhan - Route 18
 Horsea     - Surfing Route 21, Seafoam Islands

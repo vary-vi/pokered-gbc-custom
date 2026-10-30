@@ -2843,6 +2843,7 @@ IsNextTileShoreOrWater:
 	jr z, .shoreOrWater
 .skipShoreTiles
 	cp $14 ; water tile
+	cp $00 ; block water tile
 	jr z, .shoreOrWater
 .notShoreOrWater
 	scf

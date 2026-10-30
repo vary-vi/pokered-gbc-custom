@@ -34,7 +34,7 @@ Nidorino   - evolve at level 16
 Nidoking   - evolve with Moon Stone or ... Victory Road
 Clefairy   - Route 3, Mt Moon
 Clefable   - evolve with Moon Stone or ... Route 3, Victory Road, Cerulean Cave
-Vulpix     - Route 2, 8, Pokemon Mansion
+Vulpix     - Route 1, 2, 8, Pokemon Mansion
 Ninetales  - evolve with Fire Stone or ... Route 8, Pokemon Mansion
 Jigglypuff - Route 3
 Wigglytuff - evolve with Moon Stone or ... Route 3, Victory Road, Cerulean Cave
@@ -66,7 +66,7 @@ Alakazam   - evolve through trade > level 37 ... or Pokemon Mansion, Cerulean Ca
 Machop     - Route 4, 24, 9
 Machoke    - evolve at level 28 or ... Route 9, 8
 Machamp    - evolve through trade > level 37 ... or Route 23, Victory Road
-Bellsprout - Route 4, 24, 12/13, 14
+Bellsprout - Route 1, 4, 24, 12/13, 14
 Weepinbell - evolve at level 21 or ... Route 24, 12/13, 15
 Victreebel - evolve with Leaf Stone or ... Route 12/13
 Tentacool  - Surfing Route 19, 20
@@ -87,7 +87,7 @@ Seel       - Seafoam Islands
 Dewgong    - Seafoam Islands ... or evolve at level 34
 Grimer     - Pokemon Mansion
 Muk        - evolve at level 38 or ... Pokemon Mansion
-Shellder   - Seafoam Islands
+Shellder   - Route 21, Seafoam Islands
 Cloyster   - evolve with Water Stone or ... Seafoam Islands
 Ghastly    - Pokemon Tower
 Haunter    - evolve at level 25 > 16 or ... Pokemon Tower, Pokemon Mansion

@@ -4,8 +4,8 @@ Route21WildMons:
 	db  5, KRABBY         ; 20
 	db  5, MEOWTH         ; 15
 	db  5, EXEGGCUTE      ; 10
+	db  5, SHELLDER       ; 10
 	db  5, PSYDUCK        ; 10
-	db  5, SQUIRTLE       ; 10
 	db  5, DODUO          ; 5
 	db  7, DODUO          ; 5
 	db  5, FARFETCHD      ; 4

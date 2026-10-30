@@ -1,5 +1,5 @@
 ViridianCityWildMons:
-	def_grass_wildmons 25 ; encounter rate
+	def_grass_wildmons 5 ; encounter rate
     db 10, BULBASAUR     ; 20
     db 10, CHARMANDER    ; 20
     db 10, SQUIRTLE      ; 15
@@ -12,15 +12,15 @@ ViridianCityWildMons:
     db 10, SQUIRTLE      ; 1
 	end_grass_wildmons
 
-	def_water_wildmons 25 ; encounter rate
-    db 10, PSYDUCK       ; 20
-    db 10, PSYDUCK       ; 20
-    db 10, PSYDUCK       ; 15
-    db 10, PSYDUCK       ; 10
-    db 10, PSYDUCK       ; 10
-    db 10, PSYDUCK       ; 10
-    db 10, PSYDUCK       ; 5
-    db 10, PSYDUCK       ; 5
+	def_water_wildmons 5 ; encounter rate
+    db 10, POLIWAG       ; 20
+    db 10, POLIWAG       ; 20
+    db 10, POLIWAG       ; 15
+    db 10, POLIWAG       ; 10
+    db 10, POLIWAG       ; 10
+    db 10, POLIWAG       ; 10
+    db 10, POLIWAG       ; 5
+    db 10, POLIWAG       ; 5
     db 10, SQUIRTLE      ; 4
     db 10, SQUIRTLE      ; 1
 	end_water_wildmons

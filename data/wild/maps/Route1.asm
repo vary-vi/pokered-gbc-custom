@@ -3,8 +3,8 @@ Route1WildMons:
 	db  3, PIDGEY         ; 20
 	db  4, PIDGEY         ; 20
 	db  3, RATTATA        ; 15
-	db  5, BULBASAUR      ; 10
-	db  5, CHARMANDER     ; 10
+	db  5, BELLSPROUT     ; 10
+	db  5, VULPIX         ; 10
 	db  5, EEVEE          ; 10
 	db  7, EEVEE          ; 5
 	db  5, PIKACHU        ; 5
